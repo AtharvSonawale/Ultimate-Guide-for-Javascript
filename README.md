@@ -1,6 +1,5 @@
 # Ultimate Guide for Javascript
 
-
 ---
 
 ## **1. Core Concepts**
