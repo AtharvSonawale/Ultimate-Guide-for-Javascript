@@ -333,11 +333,11 @@ for (let value of arr) {
 
 ---
 
-## **Objects and Arrays**
+## *3. *Objects and Arrays**
 
 ---
 
-## **DOM Manipulation**
+## **4. DOM Manipulation**
 
 #### **JavaScript DOM Manipulation: The Definitive Guide**
 
@@ -676,7 +676,7 @@ document.body.appendChild(fragment); // Append once to minimize reflow
 
 ---
 
-## **4. Asychronous Javascript**
+## **5. Asychronous Javascript**
 
 #### **Asynchronous JavaScript: A Comprehensive Guide**
 
